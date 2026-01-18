@@ -35,7 +35,3 @@ Each assignment folder will contain its own notebook, write‑up, or required fi
 
 ## **📝 Notes**
 This README provides an overview of the purpose and organization of the Assignments directory. Individual assignment folders will include more detailed instructions and explanations as needed.
-
----
-
-If you want, I can also generate README files for specific assignment subfolders once you create them.
