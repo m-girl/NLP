@@ -44,7 +44,3 @@ labs/
 
 ## **📝 Notes**
 Each lab will include its own explanation or notebook describing the goals, methods, and results. This README provides an overview of the purpose and organization of the entire folder.
-
----
-
-If you want, I can also generate a README for each individual lab folder once you start adding them.
